@@ -14,7 +14,8 @@ In this code  we have been used the def function and Formula of the EMI  Calcula
 # Illustration: How is EMI on Loan Calculated?
 # Formula for EMI Calculation is -
 
-# P x R x (1+R)^N / [(1+R)^N-1] where-
+# P x R x (1+R)^N / [(1+R)^N-1] 
+## where-
 
 P = Principal loan amount
 
